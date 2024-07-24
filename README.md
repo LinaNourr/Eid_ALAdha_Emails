@@ -8,4 +8,4 @@ This UiPath project automates the process of sending customized "Happy Eid Adha"
 
 - **Email Sending:** Automatically sends "Happy Eid Adha" emails to recipients listed in an Excel sheet.
 - **Personalization:** Customizes the email message for each recipient based on their details.
-- **Excel Integration:** Reads recipient details (e.g., name, email address) from an Excel file.
+- **Excel Integration:** Reads recipient details (name, email address) from an Excel file.
